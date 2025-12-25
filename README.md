@@ -308,8 +308,11 @@ Feel free to modify and extend these scripts for your specific needs. Common cus
 
 ## Author
 
+Ahmed Helal
 Generated for database migration tasks using Docker and SQL Server tools.
 
 ---
 
 **Note:** Always test the converted database thoroughly before using it in production. It's recommended to verify data integrity and recreate any necessary indexes, foreign keys, and constraints after import.
+
+
